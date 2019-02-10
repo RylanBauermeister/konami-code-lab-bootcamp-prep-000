@@ -11,7 +11,7 @@ const codes = [
   "a"
 ];
 
-window.onload = init;
+// window.onload = init;
 
 function init() {
   let access = 0;
